@@ -1,1 +1,1 @@
-"# Excel-Project" 
+In this project I look into the Bike Sales Dataset and create interactive dashboard usuing pivot tables, slicers etc. The purpose of yhis work is to bocome more fluent in working with Microsoft Excel.
